@@ -15,7 +15,7 @@ class Header extends Component {
           <NavbarBrand href="/">React Library</NavbarBrand>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="https://github.com/yourhandle/yourrepoforthisapp">Github</NavLink>
+                <NavLink href="https://github.com/Dagzy/react-library">Github</NavLink>
               </NavItem>
             </Nav>
         </Navbar>
